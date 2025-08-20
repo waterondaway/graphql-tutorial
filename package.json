@@ -1,0 +1,24 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waterondaway/graphql-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waterondaway/graphql-tutorial/issues"
+  },
+  "homepage": "https://github.com/waterondaway/graphql-tutorial#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.10.1"
+  }
+}
